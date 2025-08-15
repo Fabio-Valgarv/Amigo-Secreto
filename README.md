@@ -10,6 +10,6 @@ El botón "Sortear amigos" sirve para sortear los nombres ingresados en la lista
 
 Despues de hacer el sorteo se puede ingresar una nueva lista de participantes.
 
-Se puede solicitar ayuda sobre el proyecto mediante el correo fabio.orteg.m@gmail.com
+Se puede solicitar ayuda sobre el proyecto mediante el correo fabio.ortega.m@gmail.com
 
 El autor del proyecto Fabio Orlando Ortega Morales.
